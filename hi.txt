@@ -5,3 +5,4 @@ payment 기능 추가
 login 기능 추가
 next 기능 추가
 (배진호) logout 기능 추가
+(문병화) prev 기능 추가
